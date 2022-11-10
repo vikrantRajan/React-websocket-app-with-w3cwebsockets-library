@@ -1,5 +1,5 @@
 # web-socket-chat
-A group chat created by using the websocket library
+A group chat created by using the websocket library with React.js & Node.js
 
 This project folder contains the code for both the server and client. 
 
